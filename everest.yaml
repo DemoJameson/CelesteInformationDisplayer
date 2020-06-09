@@ -1,0 +1,6 @@
+- Name: InformationDisplayer
+  Version: 0.1.0
+  DLL: InformationDisplayer.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.1755.0
